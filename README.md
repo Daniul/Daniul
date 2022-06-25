@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniul
 - 👀 I’m interested in creating cool and fun web apps in regarding to music discovery in a social setting and anything in related to Esports and livestreaming.
-- 🌱 I’m currently learning EJS, MongoDB, re-learning Express
+- 🌱 I’m currently learning EJS, MongoDB, re-learning Express. ETA should be in a week, will start learning Svelte when done.
 - 💞️ I’m looking to collaborate on web/mobile applications with music related features.
 - 📫 How to reach me [coming soon]
 
